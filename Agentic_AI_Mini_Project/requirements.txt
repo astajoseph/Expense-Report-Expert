@@ -1,0 +1,22 @@
+# ─── Core agent pipeline ─────────────────────────────────────────────────────
+langgraph>=0.2.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-ollama>=0.2.0
+
+# ─── PDF generation ──────────────────────────────────────────────────────────
+reportlab>=4.0.0
+
+# ─── Env / config ────────────────────────────────────────────────────────────
+python-dotenv>=1.0.0
+
+# ─── Phase 1: Long-term memory ───────────────────────────────────────────────
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+
+# ─── Phase 2: Debug email server (optional) ──────────────────────────────────
+aiosmtpd>=1.4.4
+
+# ─── Phase 3: Tests and UI ───────────────────────────────────────────────────
+pytest>=8.0.0
+streamlit>=1.35.0

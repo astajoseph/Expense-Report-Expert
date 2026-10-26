@@ -1,0 +1,13 @@
+To: finance@yourcompany.com
+Attachment: /home/asta/Agentic_AI_Mini_Project/expense_report.pdf
+------------------------------------------------------------
+Subject: Travel Expense Report for 2026-09-01 to 2026-09-30
+
+Dear Finance Team,
+
+I am submitting the travel expense report for the period 2026-09-01 to 2026-09-30. The grand total of expenses for this period is Rs. 3,593.00, with a breakdown of Rs. 2,075.00 for flights, Rs. 753.30 for hotels, Rs. 436.55 for meals, and Rs. 328.15 for transport. Please note that there is one flagged item requiring review.
+
+A detailed PDF report is attached for your reference. This report includes all expenses incurred during the specified period.
+
+Best regards,
+Expense Report Agent (Automated)
